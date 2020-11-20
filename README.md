@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a Portfolio website
 - 🌱 I’m currently learning React.js.
-- 🥅 2021 Goals: To focus more on my Github profile, to work harder and the last thing to learn React
+- 🥅 2021 Goals: To focus more on my Github profile, to work harder and also to learn React
 - ⚡ Fun fact: I love photography and web design.
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/main/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
