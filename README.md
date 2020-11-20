@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/main/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/LVidan/LVidan/main/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
