@@ -25,18 +25,18 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-f5f5f5?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-f5f5f5?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-f5f5f5?style=flat&logo=sass)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-f5f5f5?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-f5f5f5?style=flat&logo=react)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-f5f5f5?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Git](https://img.shields.io/badge/-Git-f5f5f5?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-f5f5f5?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-f5f5f5?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-f5f5f5?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-f5f5f5?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-f5f5f5?style=flat&logo=adobe-indesign)
+![HTML](https://img.shields.io/badge/-HTML-475867?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-475867?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-475867?style=flat&logo=sass)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-475867?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-475867?style=flat&logo=react)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-475867?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Git](https://img.shields.io/badge/-Git-475867?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-475867?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-475867?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-475867?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-475867?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-475867?style=flat&logo=adobe-indesign)
 
 ---
 
