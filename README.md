@@ -34,7 +34,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-fff?style=flat&logo=tailwind-css)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-fff?style=flat&logo=github&logoColor=24292E)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitHub-fff?style=flat&logo=gitlab)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-fff?style=flat&logo=gitlab)&nbsp;
 ![GitKraken](https://img.shields.io/badge/-Git%20Kraken-fff?style=flat&logo=gitkraken&logoColor=179287)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-fff?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Atom](https://img.shields.io/badge/-Atom-fff?style=flat&logo=ATOM&logoColor=5FB57D)&nbsp;
