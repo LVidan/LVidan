@@ -57,12 +57,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LVidan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LVidan&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
+<div align="left">
+  <img mxa-width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LVidan&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img mxa-width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LVidan&langs_count=8&theme=nord"/>
+</div>
 
 [linkedin]: https://www.linkedin.com/in/vidan-lugonja-8036b2166
 [github]: https://github.com/LVidan
