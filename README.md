@@ -57,9 +57,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div align="left">
-  <img mxa-width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LVidan&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<div align="left" style="display: flex; align-items: end; justify-content: space-evenly;">
   <img mxa-width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LVidan&langs_count=8&theme=nord"/>
+  <img mxa-width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LVidan&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 </div>
 
 [linkedin]: https://www.linkedin.com/in/vidan-lugonja-8036b2166
