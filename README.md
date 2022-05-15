@@ -5,8 +5,8 @@
 ## I'm a UI / Frontend developer!
 
 - 🔭 I’m currently working on a Portfolio website
-- 🌱 I’m currently learning React.js.
-- 🥅 2021 Goals: To focus more on my Github profile, to work harder and also to learn React
+- 🌱 I’m currently learning Angular
+- 🥅 2022 Goals: To focus more on my Github profile, to work harder and also to learn Angular
 - ⚡ Fun fact: I love photography and web design.
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
