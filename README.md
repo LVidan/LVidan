@@ -50,11 +50,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-fff?style=flat&logo=linux&logoColor=000)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-fff?style=flat&logo=ubuntu&logoColor=E95420)&nbsp;
 
-<hr>
 #### 📈 &nbsp; Skills in progress:
 ![React](https://img.shields.io/badge/-React-fff?style=flat&logo=react)&nbsp;
 ![React Router](https://img.shields.io/badge/-React%20Router-fff?style=flat&logo=react-router)&nbsp;
-<hr>
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
