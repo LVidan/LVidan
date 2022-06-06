@@ -1,6 +1,6 @@
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
- ### Hi there, I'm Vidan Lugonja - aka Civi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" style="width: 20px;" />
+ ### Hi there, I'm Vidan Lugonja - aka Civi 👋
 
 ## I'm a UI / Frontend developer!
 
