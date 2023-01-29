@@ -1,12 +1,12 @@
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
- ### Hi there, I'm Vidan Lugonja - aka Civi 👋
+### Hi there, I'm Vidan Lugonja - aka Civi 👋
 
 ## I'm a UI / Frontend developer!
 
 - 🔭 I’m currently working on a Portfolio website
 - 🌱 I’m currently learning Angular
-- 🥅 2022 Goals: To focus more on my Github profile, to work harder and also to learn Angular
+- 🥅 2023 Goals: To focus more on my Github profile, to work harder and also to learn Angular
 - ⚡ Fun fact: I love photography and web design.
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
@@ -27,10 +27,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-fff?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS/SCSS](https://img.shields.io/badge/-SASS-fff?style=flat&logo=sass)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-fff?style=flat&logo=typescript&logoColor=2F74C0)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-fff?style=flat&logo=Angular&logoColor=DD0031)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-fff?style=flat&logo=tailwind-css)&nbsp;
+![Bulma CSS](https://img.shields.io/badge/-Bulma-fff?style=flat&logo=bulma)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-fff?style=flat&logo=github&logoColor=24292E)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-fff?style=flat&logo=gitlab)&nbsp;
@@ -51,8 +50,10 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-fff?style=flat&logo=ubuntu&logoColor=E95420)&nbsp;
 
 #### 📈 &nbsp; Skills in progress:
-![React](https://img.shields.io/badge/-React-fff?style=flat&logo=react)&nbsp;
-![React Router](https://img.shields.io/badge/-React%20Router-fff?style=flat&logo=react-router)&nbsp;
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?style=flat&logo=typescript&logoColor=2F74C0)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-fff?style=flat&logo=Angular&logoColor=DD0031)&nbsp;
+
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
